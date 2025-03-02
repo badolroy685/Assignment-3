@@ -5,14 +5,7 @@
       extend: {
       
       },
-      keyframes: {
-        move: {
-          "50%" : {"translateY(-1rem)" }
-        }
-      }, 
-      animation:{
-        movingY: "move 3s linear infinite"
-      }
+      
     },
     plugins: [],
   }
